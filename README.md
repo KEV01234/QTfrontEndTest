@@ -1,5 +1,5 @@
 # QTfrontEndTest
-QT FrontEnd practice assessment
+QT FrontEnd practice assessment.s
 
 ## Getting Started
 
